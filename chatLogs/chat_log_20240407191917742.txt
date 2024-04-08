@@ -1,0 +1,15 @@
+E has connected to the server
+[E]: test
+[E]: message
+Name has connected to the server
+[Name]: Test
+[Name]: connection 
+[Name]: too
+Q has connected to the server
+[Q]: qq
+[Q]: qq
+[Name]: test
+[E]: test
+Name has disconnected
+E has disconnected
+Q has disconnected

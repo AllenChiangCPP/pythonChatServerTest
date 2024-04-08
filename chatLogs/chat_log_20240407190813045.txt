@@ -1,0 +1,17 @@
+test has connected to the server
+[test]: ss
+[test]: zz
+[test]: xx
+[test]: vv
+[test]: a
+aa has connected to the server
+[aa]: aa
+[aa]: dcv
+[aa]: zv
+[aa]: daqsv
+[aa]: aev
+[test]: eafaef
+[test]: afa
+[test]: efc
+aa has disconnected
+test has disconnected
